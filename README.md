@@ -45,7 +45,7 @@ Product schema
 ## Coding requirement
 * Push code every day
 ## Timeline
-* Angular structure: Report on `Tuesday (06/07/2022)`. Each person will have `15 minutes` to discuss with me. I will send out the schedule
+* Angular structure: Report on `Wednesdasy (06/08/2022)`. Each person will have `15 minutes` to discuss with me. I will send out the schedule
 * Backend Code: Push the backend version with all routes (users and products) before `10:00 Wednesday (06/08/2022)`
 * Final: Push the final version (Backend and Frontend) before `10:00 PM Monday (06/13/2022)`
 * Presentation: Each person will have `20 minutes` to present your project (run the program, show the code, and QA) on `Tuesday (06/14/2022)`. I will send out the schedule
