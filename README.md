@@ -28,6 +28,7 @@ Product schema
   * Create a new product: POST localhost:3000/products
   * Update an existing product: PUT localhost:3000/products
   * Delete an existing product: DELETE localhost:3000/products
+  * Add an ingredient to a product: PATCH localhost:3000/products/:product_id
 ### Implement the user routes for CRUD (Create, Read, Update, Delete) users
   * Get all: GET localhost:3000/users
   * Get a specific user: GET localhost:3000/users/:id
@@ -36,7 +37,7 @@ Product schema
   * Delete an existing user: DELETE localhost:3000/users
 ### An admin can access all routes (user & product)
 ### A user can only use GET methods (user & product)
-### Assume that we always has a user (username: admin, role: admin) in the system
+### Assume that we always has a user (username: admin, password: admin) in the system
 
 ## Frontend Requirements
 ### Technology: Angular
@@ -45,8 +46,8 @@ Product schema
 ## Coding requirement
 * Push code every day
 ## Timeline
-* Angular structure: Report on `Wednesdasy (06/08/2022)`. Each person will have `15 minutes` to discuss with me. I will send out the schedule
-* Backend Code: Push the backend version with all routes (users and products) before `10:00 Wednesday (06/08/2022)`
+* Angular structure: Report on `Wednesday (06/07/2022)`. Each person will have `15 minutes` to discuss with me. I will send out the schedule
+* Backend Code: Push the backend version with all routes (users and products) before `10:00 Thursday (06/09/2022)`
 * Final: Push the final version (Backend and Frontend) before `10:00 PM Monday (06/13/2022)`
 * Presentation: Each person will have `20 minutes` to present your project (run the program, show the code, and QA) on `Tuesday (06/14/2022)`. I will send out the schedule
 
