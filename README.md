@@ -26,14 +26,14 @@ Product schema
   * Get all: GET localhost:3000/products
   * Get a specific product: GET localhost:3000/products/:id
   * Create a new product: POST localhost:3000/products
-  * Update an existing product: POST localhost:3000/products
-  * Delete an existing product: POST localhost:3000/products
+  * Update an existing product: PUT localhost:3000/products
+  * Delete an existing product: DELETE localhost:3000/products
 ### Implement the user routes for CRUD (Create, Read, Update, Delete) users
   * Get all: GET localhost:3000/users
   * Get a specific user: GET localhost:3000/users/:id
   * Create a new user: POST localhost:3000/users
-  * Update an existing user: POST localhost:3000/users
-  * Delete an existing user: POST localhost:3000/users
+  * Update an existing user: PUT localhost:3000/users
+  * Delete an existing user: DELETE localhost:3000/users
 ### An admin can access all routes (user & product)
 ### A user can only use GET methods (user & product)
 ### Assume that we always has a user (username: admin, password: admin) in the system
