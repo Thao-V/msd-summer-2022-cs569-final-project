@@ -36,7 +36,7 @@ Product schema
   * Delete an existing user: DELETE localhost:3000/users
 ### An admin can access all routes (user & product)
 ### A user can only use GET methods (user & product)
-### Assume that we always has a user (username: admin, password: admin) in the system
+### Assume that we always has a user (username: admin, role: admin) in the system
 
 ## Frontend Requirements
 ### Technology: Angular
